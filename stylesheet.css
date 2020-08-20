@@ -1,0 +1,21 @@
+#anchor-pane{
+    -fx-background-color: #040615;
+}
+
+#digital-clock{
+    -fx-text-fill: #fff;
+    -fx-font-family: consolas;
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+#clock{
+    -fx-text-fill: #fff;
+    -fx-font-family: consolas;
+    -fx-font-size: 28;
+    -fx-font-weight: bold;
+}
+#close-icon{
+    -fx-fill: #fff;
+    -glyph-size: 20px;
+    -fx-cursor: hand;
+}
